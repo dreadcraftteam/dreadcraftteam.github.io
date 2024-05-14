@@ -21,27 +21,27 @@ img {
     width: 608px;
     height: 33px;
     background-color: #e8e8e8;
-    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/top.jpg)
+    background-image: url(/top.jpg)
 }
 
 #container_bottom {
     width: 608px;
     height: 32px;
     background-color: #e8e8e8;
-    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/bottom.jpg)
+    background-image: url(/bottom.jpg)
 }
 
 #container_head {
     width: 608px;
     height: 115px;
     background-color: #e8e8e8;
-    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/bg.jpg)
+    background-image: url(/bg.jpg)
 }
 
 #container {
     width: 608px;
     background-color: #e8e8e8;
-    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/bg.jpg);
+    background-image: url(/bg.jpg);
     margin: 0 auto;
     text-align: justify
 }
@@ -56,7 +56,7 @@ img {
 #container .subtitlebg {
     width: 400px;
     height: 35px;
-    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/titlebg.jpg);
+    background-image: url(/titlebg.jpg);
     margin-left: 64px;
     margin-bottom: 10px
 }
