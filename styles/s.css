@@ -1,0 +1,121 @@
+body {
+    font: 11px Tahoma,Verdana,Helvetica,sans-serif;
+    color: #222;
+    background-color: #bbb;
+    text-align: center
+}
+
+a {
+    color: #05d
+}
+
+a:hover {
+    color: #55f
+}
+
+img {
+    border: 0
+}
+
+#container_top {
+    width: 608px;
+    height: 33px;
+    background-color: #e8e8e8;
+    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/top.jpg)
+}
+
+#container_bottom {
+    width: 608px;
+    height: 32px;
+    background-color: #e8e8e8;
+    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/bottom.jpg)
+}
+
+#container_head {
+    width: 608px;
+    height: 115px;
+    background-color: #e8e8e8;
+    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/bg.jpg)
+}
+
+#container {
+    width: 608px;
+    background-color: #e8e8e8;
+    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/bg.jpg);
+    margin: 0 auto;
+    text-align: justify
+}
+
+#container hr {
+    margin-top: 40px;
+    border: 1px solid #ccc;
+    width: 60%;
+    text-align: center
+}
+
+#container .subtitlebg {
+    width: 400px;
+    height: 35px;
+    background-image: url(/Users/Администратор/Desktop/dreadcraftteam.github.io/titlebg.jpg);
+    margin-left: 64px;
+    margin-bottom: 10px
+}
+
+#container .subtitle {
+    font-family: trebuchet ms,sans-serif;
+    font-size: 16pt;
+    font-weight: 700;
+    color: #aaa;
+    letter-spacing: -1px;
+    text-shadow: #000;
+    position: relative;
+    left: 11px;
+    top: 4px
+}
+
+#container .subtitle_shdw {
+    color: #fff;
+    position: absolute;
+    left: -1px;
+    top: -1px
+}
+
+#container .text {
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-bottom: 30px
+}
+
+#controls {
+    font-family: tahoma,sans-serif;
+    font-size: 10px;
+    padding-left: 50px;
+    letter-spacing: 1px;
+    padding-bottom: 30px
+}
+
+#controls a {
+    text-decoration: none
+}
+
+.link {
+    padding-right: 15px
+}
+
+.images {
+    width: 100%;
+    text-align: center
+}
+
+.images img {
+    border: 1px solid #000;
+    padding: 0;
+    spacing: 0
+}
+
+.faq_q {
+    font-weight: bolder;
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 4px;
+    color: #555
+}
